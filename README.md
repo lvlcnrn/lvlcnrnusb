@@ -1,7 +1,9 @@
 # lvlcnrnusb
 This is the source code for the Level of Concern USB Game. 
+
 I'm a fan and decided to upload it so we can try to decipher the backend and see if we can figure out solutions for the codes.
-Files larger than 25MB are not in the USB folders
+
+Files larger than 25MB are not in the USB folders.
 
 Things to Note on the Formatted Code:
 - Line 4240: t.CACHE_KEY = "top_loc_usb_unlocked_urls",(key contents below)
