@@ -44,6 +44,5 @@ Unlocked URLS enter your Local Storage, perhaps there's a way to retrieve the fu
 - Code 11: LOC-913-883-74ZNB
 - Code 12: LOC-854-819-52?BI
 - (Doesn't Work Anymore) Code 13: LOC-292-483-76E!P
-- New Code 13: LOC-TW1-HYP-31!?R
 - (Doesn't Work Anymore) Code 14: LOC-307-791-89SKT
-
+- New Code 13: LOC-TW1-HYP-31!?R
