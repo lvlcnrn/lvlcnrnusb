@@ -23,8 +23,9 @@ Things to Note on the Formatted Code:
 - 9: "https://d2hua6cusslj16.cloudfront.net/drives/USB10-0bc24c74-cdd5-4dd0-a448-6bcaa46f8712.zip"
 - 10: "https://d2hua6cusslj16.cloudfront.net/drives/USB11-582cdc67-9032-48d2-995f-d3d3c6ad79fb.zip"
 - 11: "https://d2hua6cusslj16.cloudfront.net/drives/USB12-fee53605-a278-4617-9951-a71466e37679.zip"
-- 12: "https://d2hua6cusslj16.cloudfront.net/idontthinkso.gif"
-- 13: "https://d2hua6cusslj16.cloudfront.net/idontthinkso.gif"
+- Old 12: "https://d2hua6cusslj16.cloudfront.net/idontthinkso.gif"
+- Old 13: "https://d2hua6cusslj16.cloudfront.net/idontthinkso.gif"
+- New 12: "https://d2hua6cusslj16.cloudfront.net/drives/USB13-dbcdd006-1874-4b23-82ad-7df00871ccfe.zip"
 
 - Line 13856: t.SUBMIT_CACHE_KEY = "top_loc_usb_submit",
 
@@ -43,5 +44,6 @@ Unlocked URLS enter your Local Storage, perhaps there's a way to retrieve the fu
 - Code 11: LOC-913-883-74ZNB
 - Code 12: LOC-854-819-52?BI
 - (Doesn't Work Anymore) Code 13: LOC-292-483-76E!P
+- New Code 13: LOC-TW1-HYP-31!?R
 - (Doesn't Work Anymore) Code 14: LOC-307-791-89SKT
 
