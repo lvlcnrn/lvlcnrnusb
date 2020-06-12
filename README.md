@@ -1,14 +1,16 @@
 # lvlcnrnusb
 This is the source code for the Level of Concern USB Game. 
 
-bundle.js is the source code from the https://ineedyoutotellmewerealrighttellmewereokay.com/ website
+bundle.js is the source code from the https://ineedyoutotellmewerealrighttellmewereokay.com/ website.
+
+bundle-7b78d48a56ec6c3b18495ed513a95658.js:formatted is the source code from the https://usb.twentyonepilots.com/ website.
 
 I'm a fan and decided to upload it so we can try to decipher the backend and see if we can figure out solutions for the codes.
 
 Files larger than 25MB are not in the USB folders.
 
 Things to Note on the Formatted Code:
-- Line 4240: t.CACHE_KEY = "top_loc_usb_unlocked_urls",(key contents below)
+- Line 4240: t.CACHE_KEY = "top_loc_usb_unlocked_urls", (key contents below)
 - 0: "https://d2hua6cusslj16.cloudfront.net/drives/USB1-28632cda-996d-4fe7-abb4-829186d9ad19.zip"
 - 1: "https://d2hua6cusslj16.cloudfront.net/drives/USB2-06b8f3d9-993f-4a30-b2ce-a2cce3092c7f.zip"
 - 2: "https://d2hua6cusslj16.cloudfront.net/drives/USB3-853b8aaf-9dc6-4f7d-bfab-5afecac6677e.zip"
