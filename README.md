@@ -10,6 +10,7 @@ Things to Note on the Formatted Code:
 - 3: "https://d2hua6cusslj16.cloudfront.net/drives/USB4-1568367c-7f2a-430a-be55-3072f9789a97.zip"
 - 4: "https://d2hua6cusslj16.cloudfront.net/drives/USB5-f0268761-f6de-490b-84e1-a5041e2bc3cb.zip"
 - 5: "https://d2hua6cusslj16.cloudfront.net/drives/USB6-2f9a33aa-6843-4ce0-8fc4-d2a2b3c6068b.zip"
+- 6: "https://d2hua6cusslj16.cloudfront.net/drives/USB7-37754eed-b0aa-4625-b34a-1471a75e12e2.zip"
 - Line 13856: t.SUBMIT_CACHE_KEY = "top_loc_usb_submit",
 
 Unlocked URLS enter your Local Storage, perhaps there's a way to retrieve the future urls.
