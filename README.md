@@ -42,6 +42,6 @@ Unlocked URLS enter your Local Storage, perhaps there's a way to retrieve the fu
 - Code 10: LOC-415-186-04LQL
 - Code 11: LOC-913-883-74ZNB
 - Code 12: LOC-854-819-52?BI
-- Code 13: LOC-292-483-76E!P
-- Code 14: LOC-307-791-89SKT
+- (Doesn't Work Anymore) Code 13: LOC-292-483-76E!P
+- (Doesn't Work Anymore) Code 14: LOC-307-791-89SKT
 
