@@ -1,6 +1,8 @@
 # lvlcnrnusb
 This is the source code for the Level of Concern USB Game. 
 
+bundle.js is the source code from the https://ineedyoutotellmewerealrighttellmewereokay.com/ website
+
 I'm a fan and decided to upload it so we can try to decipher the backend and see if we can figure out solutions for the codes.
 
 Files larger than 25MB are not in the USB folders.
