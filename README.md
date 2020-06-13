@@ -50,3 +50,5 @@ Unlocked URLS enter your Local Storage, perhaps there's a way to retrieve the fu
 - New Code 13: LOC-TW1-HYP-31!?R
 - New Code 14: LOC-118-397-90VPI
 - Code 15: LOC-482-156-33!SU
+- Code 16: LOC-522-325-61JAD
+- Code 17: LOC-960-335-49CSY
