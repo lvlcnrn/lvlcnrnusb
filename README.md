@@ -28,6 +28,9 @@ Things to Note on the Formatted Code:
 - New 12: "https://d2hua6cusslj16.cloudfront.net/drives/USB13-dbcdd006-1874-4b23-82ad-7df00871ccfe.zip"
 - New 13: "https://d2hua6cusslj16.cloudfront.net/drives/USB14-57394fca-e8d7-425c-97fc-e7dbcc427158.zip"
 - 14: "https://d2hua6cusslj16.cloudfront.net/drives/USB15-619fda3b-4021-468e-9aea-0da4ba5d1959.zip"
+- 15: "https://d2hua6cusslj16.cloudfront.net/drives/USB16-5ad4c292-bd36-46af-916c-891c544a8a3b.zip"
+- 16: "https://d2hua6cusslj16.cloudfront.net/drives/USB17-a09818c8-5f11-43f5-aa3a-8a6a8ef11c8c.zip"
+- 17: "https://d2hua6cusslj16.cloudfront.net/drives/USB18-a5179b5b-b39d-414a-b724-3905f7e122a6.zip"
 
 - Line 13856: t.SUBMIT_CACHE_KEY = "top_loc_usb_submit",
 
