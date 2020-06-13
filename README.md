@@ -52,3 +52,4 @@ Unlocked URLS enter your Local Storage, perhaps there's a way to retrieve the fu
 - Code 15: LOC-482-156-33!SU
 - Code 16: LOC-522-325-61JAD
 - Code 17: LOC-960-335-49CSY
+- Code 18: LOC-363-905-64NLA
