@@ -1,5 +1,7 @@
 # lvlcnrnusb
-If you use a url decoder on page.min.css you will get braille which translates to 
+How to decode the source code:
+1. If you use a url decoder (https://meyerweb.com/eric/tools/dencoder/) on page.min.css (located above) you will get braille: /* ⠺⠑⠇⠇ ⠙⠕⠝⠑⠲ ⠞⠓⠑ ⠓⠊⠧⠑ ⠍⠊⠝⠙ ⠊⠎ ⠧⠑⠗⠽ ⠏⠕⠺⠑⠗⠋⠥⠇⠲ ⠥⠝⠋⠕⠗⠞⠥⠝⠁⠞⠑⠇⠽⠂ ⠞⠓⠑ ⠇⠁⠎⠞ ⠏⠥⠵⠵⠇⠑ ⠊⠎ ⠞⠓⠑ ⠓⠁⠗⠙⠑⠎⠞⠲ ⠁⠝⠙ ⠇⠑⠁⠙⠎ ⠞⠕ ⠎⠕⠍⠑⠞⠓⠊⠝⠛ ⠎⠏⠑⠉⠊⠁⠇⠲ ⠽⠕⠥ ⠍⠊⠛⠓⠞ ⠺⠁⠝⠞ ⠞⠕ ⠅⠑⠑⠏ ⠞⠓⠑ ⠋⠊⠝⠁⠇ ⠉⠕⠙⠑ ⠞⠕ ⠽⠕⠥⠗⠎⠑⠇⠋⠲ ⠏⠇⠑⠁⠎⠑ ⠉⠕⠍⠑ ⠃⠁⠉⠅ ⠕⠝ ⠼⠋⠲⠼⠁⠼⠑⠲⠼⠃⠼⠚⠼⠃⠼⠚ ⠁⠞ ⠼⠁⠼⠃⠏⠍ ⠑⠎⠞ ⠁⠝⠙ ⠃⠑⠛⠊⠝ ⠞⠓⠑ ⠋⠊⠝⠁⠇ ⠚⠕⠥⠗⠝⠑⠽⠲ ⠞⠓⠁⠝⠅ ⠽⠕⠥ ⠋⠕⠗ ⠽⠕⠥⠗ ⠏⠁⠗⠞⠊⠉⠊⠏⠁⠞⠊⠕⠝⠲ ⠛⠕⠕⠙ ⠇⠥⠉⠅⠲ */
+which translates to (https://cable.ayra.ch/braille/)
 /* well done. the hive mind is very powerful. unfortunately, the last puzzle is the hardest. and leads to something special. you might want to keep the final code to yourself. please come back on 6.15.2020 at 12pm est and begin the final journey. thank you for your participation. good luck. */
 
 This is the source code for the Level of Concern USB Game. 
