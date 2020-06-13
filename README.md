@@ -31,6 +31,7 @@ Things to Note on the Formatted Code:
 - 15: "https://d2hua6cusslj16.cloudfront.net/drives/USB16-5ad4c292-bd36-46af-916c-891c544a8a3b.zip"
 - 16: "https://d2hua6cusslj16.cloudfront.net/drives/USB17-a09818c8-5f11-43f5-aa3a-8a6a8ef11c8c.zip"
 - 17: "https://d2hua6cusslj16.cloudfront.net/drives/USB18-a5179b5b-b39d-414a-b724-3905f7e122a6.zip"
+- 18: "https://d2hua6cusslj16.cloudfront.net/drives/USB19-2ce25dd2-3038-408a-b0c8-d0e2aa8ff060.zip"
 
 - Line 13856: t.SUBMIT_CACHE_KEY = "top_loc_usb_submit",
 
@@ -56,3 +57,4 @@ Unlocked URLS enter your Local Storage, perhaps there's a way to retrieve the fu
 - Code 16: LOC-522-325-61JAD
 - Code 17: LOC-960-335-49CSY
 - Code 18: LOC-363-905-64NLA
+- Code 19: LOC-907-696-51SCP
