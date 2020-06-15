@@ -41,7 +41,13 @@ Things to Note on the Formatted Code:
 - 18: "https://d2hua6cusslj16.cloudfront.net/drives/USB19-2ce25dd2-3038-408a-b0c8-d0e2aa8ff060.zip"
 - 19: "https://d2hua6cusslj16.cloudfront.net/drives/USB20-3a99f3dd-aa24-4c0a-afc6-a8c367ca711a.zip"
 
-- Line 13856: t.SUBMIT_CACHE_KEY = "top_loc_usb_submit",
+- Line 13856: t.SUBMIT_CACHE_KEY = "top_loc_usb_submit
+
+- top_loc_usb_submit - on the final submit page with the name, mailing address and twitter handle, this key determines whether your submission went through or not. 
+
+true gives you white text with this message: "Thank you. While this feels like the end, it most certainly is not. We still have a few surprises up our sleeves. Mark your calendar for 6.22.2020. This time it's not about us... it's about you.",
+
+false gives you red text with this message: "Congratulations. While this feels like the end, it most certainly is not. We still have a few surprises up our sleeves. Mark your calendar for 6.22.2020. This time it's not about us... it's about you."
 
 Unlocked URLS enter your Local Storage, perhaps there's a way to retrieve the future urls.
 
